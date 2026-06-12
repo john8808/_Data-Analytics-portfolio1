@@ -5,6 +5,7 @@ I am isnspired and lead into Senior Data Analyst role and helping African busine
 
 ## Skills
 Data visualization - Power BI, Excel, SQL
+![Image!](Project2 HR Dashboard.png)
 Data Analytics coaching 
 
 
