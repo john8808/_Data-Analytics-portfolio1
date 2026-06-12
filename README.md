@@ -4,8 +4,8 @@ Hello, I am John Ehiabhi Oboze, a Data Analyst and problem solver passionate abo
 I am isnspired and lead into Senior Data Analyst role and helping African businesses make smarter decisions. I have built data dashboards that increase team productivity and performance by a huge margin.
 
 ## Skills
-Data visualization
-Data Modelling
+Data visualization - Power BI, Excel, SQL
+Data Analytics coaching 
 
 
 ## Projects
