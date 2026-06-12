@@ -6,6 +6,8 @@ I am isnspired and lead into Senior Data Analyst role and helping African busine
 ## Skills
 Data visualization - Power BI, Excel, SQL
 ![Image!](Project2 HR Dashboard.png)
+I build dashboards and reporting visuals that helps stakeholder make quicker and faster decisions. 
+[click here](https://www.linkedin.com/posts/john-ehiabhi-oboze-59189a123_powerbi-dataanalytics-hranalytics-activity-7439172841583009792-Djvu?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB6Qr70B32_ZC4Y2BfMNuyqOd9-uhjLDlDs)
 Data Analytics coaching 
 
 
